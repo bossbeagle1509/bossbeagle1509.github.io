@@ -53035,7 +53035,7 @@ $S:0}
 T.E7.prototype={
 O:function(a,b){var s=null,r=t.w,q=b.a_(r).f
 r=b.a_(r).f
-return T.i7(T.mt(H.a([D.kB(s,T.rH(S.aat(T.ki(L.dE("Corona Virus Stats Tracker",s,$.eE().WM(C.fk),s),s,s),"Check out the repo"),C.cK,s,s,s,!0),C.ag,!1,s,s,s,s,s,s,s,s,s,s,s,new T.Yq(),s,s,s,s,s),C.CV,new T.cu(C.cf,L.dE("My first repository with more than 3 commits ;) I'd wanted to mess around with RESTful APIs. And Provider state management. Primarily Provider. I was curious to see just how useful it was (spoiler, a LOT).\n\nI utilised ended up using Provider for handling the theme, UI elements and all the API data.",s,$.eF(),s),s)],t.E),C.a8,C.bc),q.a.b,r.a.a)}}
+return T.i7(T.mt(H.a([D.kB(s,T.rH(S.aat(T.ki(L.dE("Corona Virus Stats Tracker",s,$.eE().WM(C.fk),s),s,s),"Check out the repo"),C.cK,s,s,s,!0),C.ag,!1,s,s,s,s,s,s,s,s,s,s,s,new T.Yq(),s,s,s,s,s),C.CV,new T.cu(C.cf,L.dE("My first repository with more than 3 commits ;) I'd wanted to mess around with RESTful APIs. And Provider state management. Primarily Provider. I was curious to see just how useful it was (spoiler, a LOT).\n\nI ended up using Provider for handling the theme, UI elements and all the API data.",s,$.eF(),s),s)],t.E),C.a8,C.bc),q.a.b,r.a.a)}}
 T.Yq.prototype={
 $0:function(){return C.a6.x8(window,"https://github.com/bossbeagle1509/corona_virus_tracker","Github")},
 $S:0}
