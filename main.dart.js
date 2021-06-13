@@ -52921,7 +52921,7 @@ this.bj(0)},
 O:function(a,b){var s,r,q=this,p=null,o=Y.a5G(b,t.iL),n=U.DA(L.dE(q.x,1,$.eF(),p),new T.a_v(q)),m=q.e,l=t.E
 m=T.nE(H.a([n,G.a8g(L.dE("_",p,$.eE(),p),C.aw,m)],l),C.a8,C.bb)
 n=q.d
-s=o.a===C.a_?".oww_my_eyes":".i_can't see"
+s=o.a===C.a_?".oww_my_eyes":".i_can't_see"
 s=T.nE(H.a([m,C.dM,new T.nb(n,1,"\\work",p),new T.nb(n,2,"\\about",p),new T.nb(n,3,"\\contact",p),U.DA(L.dE(s,p,$.eF(),p),new T.a_w(o))],l),C.a8,C.bb)
 m=t.w
 r=b.a_(m).f
