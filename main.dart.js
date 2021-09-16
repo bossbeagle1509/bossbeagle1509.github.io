@@ -52901,7 +52901,7 @@ $R:3,
 $S:335}
 A.pN.prototype={
 M(a,b){var s=null
-return new T.c7(C.zg,T.iW(H.a([new T.c7(C.bu,L.cW("I'm a 17 year-old, self-taught developer from India. I began fiddling with Arduinos when I was 14-ish and I was hooked. Then I learnt Python and dabbled with some computer vision and NLP projects. Most recently, I learnt Flutter. \n\nI love dogs, wave-boarding, playing chess, reading books, writing articles and keeping up to date on computer hardware (the M1 chip had me swooning).",s,$.dS(),s),s)],t.E),C.W,C.aJ),s)}}
+return new T.c7(C.zg,T.iW(H.a([new T.c7(C.bu,L.cW("I'm a 17 year-old (now 18 !), self-taught developer from India. I began fiddling with Arduinos when I was 14-ish and I was hooked. Then I learnt Python and dabbled with some computer vision and NLP projects. Most recently, I learnt Flutter. \n\nI love dogs, wave-boarding, playing chess, reading books, writing articles and keeping up to date on computer hardware (the M1 chip had me swooning).",s,$.dS(),s),s)],t.E),C.W,C.aJ),s)}}
 R.AY.prototype={
 M(a,b){return new V.t7(new R.Rx(),null)}}
 R.Rx.prototype={
