@@ -1,11 +1,11 @@
 {
-    "name": "personal_site_v2",
-    "short_name": "personal_site_v2",
+    "name": "Pranav Manoj",
+    "short_name": "Pranav Manoj",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Pranav Manoj",
+    "description": "I'm an 18 year old, self-taught developer from India. I began fiddling with Arduinos when I was 14-ish and I was hooked. Then I learnt Python and dabbled with some computer vision and NLP projects. Most recently, I learnt Flutter. I love dogs, wave-boarding, playing chess, reading books, writing articles and keeping up to date on computer hardware.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
